@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# TEXTUTILS APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Helpful links for me:=
 
-## Available Scripts
+Method to Free-Host your App on Github repo to GitPages : 
+[Method 1]https://www.codewithharry.com/videos/react-tutorials-in-hindi-17/
+[Method 2](https://github.com/gitname/react-gh-pages).
+
+<!-- ## Available Scripts
 
 In the project directory, you can run:
 
@@ -67,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->

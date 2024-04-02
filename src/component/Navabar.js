@@ -8,9 +8,9 @@ export default function Navabar(props) {
       className={`navbar navbar-expand-lg navbar-${props.mode} bg-${props.mode}`}
     >
       <div className="container-fluid">
-        <a className="navbar-brand" href="/">
-          {props.title}
-        </a>
+        <Link className="nav-link" aria-current="page" to="/">
+            {props.title}
+        </Link>
         <button
           className="navbar-toggler"
           type="button"
