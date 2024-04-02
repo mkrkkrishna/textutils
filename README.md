@@ -4,7 +4,8 @@ Helpful links for me:=
 
 Method to Free-Host your App on Github repo to GitPages : 
 [Method 1]https://www.codewithharry.com/videos/react-tutorials-in-hindi-17/
-[Method 2](https://github.com/gitname/react-gh-pages).
+[Method 2](https://github.com/gitname/react-gh-pages)
+[Method 3](https://blog.logrocket.com/deploying-react-apps-github-pages/)
 
 <!-- ## Available Scripts
 
