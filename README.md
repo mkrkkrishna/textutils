@@ -1,8 +1,8 @@
 # TEXTUTILS APP
 
-Helpful links for me:=
+Helpful links for me:-
 
-Method to Free-Host your App on Github repo to GitPages : 
+Method to Free-Host your App on Github repo to GitPages : <br>
 [Method 1]https://www.codewithharry.com/videos/react-tutorials-in-hindi-17/
 [Method 2](https://github.com/gitname/react-gh-pages)
 [Method 3](https://blog.logrocket.com/deploying-react-apps-github-pages/)
@@ -11,10 +11,13 @@ Method to Free-Host your App on Github repo to GitPages :
 
 [Toploading Bar](https://www.npmjs.com/package/react-top-loading-bar)
 
- ### React Infinite Scroll Component
+### React Infinite Scroll Component
 
 [Infinite Scroll](https://www.npmjs.com/package/react-infinite-scroll-component) 
 
+
+### How to re-deploy from GitHub Pages
+you can go to settings → General → Danger Zone, change your repository visibility to private, and change to public again, then you go to settings → pages, and you can deploy your page again, and your site will turn up again
 
 <!--### `npm test`
 
