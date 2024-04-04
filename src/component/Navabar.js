@@ -9,7 +9,7 @@ export default function Navabar(props) {
     >
       <div className="container-fluid">
         <Link className="nav-link" aria-current="page" to="/">
-            {props.title}
+          {props.title}
         </Link>
         <button
           className="navbar-toggler"
@@ -69,22 +69,31 @@ export default function Navabar(props) {
               style={{ height: "30px", width: "30px", cursor: "pointer" }}
             ></div>
 
-<div
+            <div
               className="bg-dark rounded mx-2"
               onClick={() => {
                 props.toggleMode("dark");
               }}
-              style={{ height: "30px", width: "30px", cursor: "pointer", border:"1px solid white" }}
-            ></div>
-
-<div
-              className="bg-white rounded mx-2"
-              onClick={() => {
-                props.toggleMode("white");
+              style={{
+                height: "30px",
+                width: "30px",
+                cursor: "pointer",
+                border: "1px solid white",
               }}
-              style={{ height: "30px", width: "30px", cursor: "pointer", border:"1px solid black"}}
             ></div>
 
+            <div
+              className="bg-light rounded mx-2"
+              onClick={() => {
+                props.toggleMode("light");
+              }}
+              style={{
+                height: "30px",
+                width: "30px",
+                cursor: "pointer",
+                border: "1px solid black",
+              }}
+            ></div>
           </div>
         </div>
       </div>
